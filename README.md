@@ -33,7 +33,7 @@ When using multiple AI tools in the same project, you need both files to contain
 
 ```bash
 # Clone or download this repository
-git clone https://github.com/YOUR_USERNAME/claude-agents-sync.git
+git clone https://github.com/alexandrbasis/claude-agents-sync.git
 
 # Copy .claude directory to your project
 cp -r claude-agents-sync/.claude /path/to/your-project/
@@ -349,8 +349,8 @@ Built for teams using multiple AI coding assistants in harmony.
 
 ## Questions?
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/YOUR_USERNAME/claude-agents-sync/issues)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/YOUR_USERNAME/claude-agents-sync/discussions)
+- 🐛 **Found a bug?** [Open an issue](https://github.com/alexandrbasis/claude-agents-sync/issues)
+- 💡 **Have an idea?** [Start a discussion](https://github.com/alexandrbasis/claude-agents-sync/discussions)
 - 📖 **Need help?** Check the [examples](examples/) directory
 
 ---
