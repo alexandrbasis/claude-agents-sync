@@ -4,7 +4,6 @@
 claude-agents-sync/
 │
 ├── README.md                       # Main documentation
-├── LICENSE                         # MIT License
 ├── STRUCTURE.md                    # This file
 ├── .gitignore                      # Git ignore rules
 │
